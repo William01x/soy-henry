@@ -254,7 +254,7 @@ function esVocal(letra){
    return "Es vocal";
  }
  return "Dato incorrecto";
-}
+} 
 
 
 
